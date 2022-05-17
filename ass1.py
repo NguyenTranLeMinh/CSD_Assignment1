@@ -1,6 +1,6 @@
 import typing
 
-PATH = 'FX10511_CSD203X_asm1/'
+PATH = ''
 # 11 6 4 3 2 9 8 9 4 7 6 1
 
 # Criterion 1
